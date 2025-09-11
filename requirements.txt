@@ -1,4 +1,5 @@
 dotenv
 google-generativeai
 pypdf
+streamlit
 fastmcp
